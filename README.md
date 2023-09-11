@@ -2,6 +2,31 @@
 <h1>😎 Olá, Sou o Flávio Hayashida</h1>
 </p>
 <p>
+  Sou um Techleader com uma sólida carreira na área de desenvolvimento de sistemas e gerenciamento de projetos de tecnologia. Com sede em Cuiabá, Mato Grosso, atuei como líder técnico na GAO Tecnologia, onde desempenhei uma variedade de funções essenciais que abrangem desde o desenvolvimento de sistemas até a administração de servidores Windows e Linux. Abaixo estão alguns dos destaques da minha carreira:
+</p>
+<ul>
+  <li><strong>Desenvolvimento de Sistemas:</strong> Ao longo dos anos, desenvolvi expertise em várias tecnologias, incluindo Laravel, WordPress e Yii Framework, com foco em criar soluções eficientes e de alta qualidade.</li>
+  <li><strong>Liderança de Equipe e Projetos:</strong> Gerenciar equipes de desenvolvimento e projetos faz parte do meu histórico profissional, garantindo entregas bem-sucedidas e dentro do prazo.</li>
+  <li><strong>Tecnologia Docker:</strong> Utilizei a tecnologia Docker para facilitar o desenvolvimento, teste e implantação de aplicativos, aumentando a eficiência e a consistência do processo.</li>
+  <li><strong>Colaboração Multidisciplinar:</strong> Trabalhar em conjunto com equipes multidisciplinares para definir requisitos e especificações de projetos é uma habilidade essencial que adquiri ao longo da minha carreira.</li>
+  <li><strong>E-commerce e Integrações:</strong> Contribuí para a criação de soluções de e-commerce, incluindo integrações de pagamento, que melhoram a experiência do usuário e impulsionam os negócios.</li>
+  <li><strong>Segurança e Integração:</strong> Implementar medidas de segurança e integrar APIs de terceiros foram parte fundamental das minhas responsabilidades.</li>
+  <li><strong>Metodologias Ágeis:</strong> Participei de projetos de grande escala, aplicando metodologias ágeis como Scrum e Kanban para garantir a eficiência e a qualidade.</li>
+  <li><strong>Manutenção e Suporte:</strong> Ofereci manutenção contínua e suporte técnico para as aplicações e sites desenvolvidos, assegurando a satisfação do cliente.</li>
+  <li><strong>Desenvolvimento Móvel:</strong> Além disso, desenvolvi aplicações móveis responsivas e web view.</li>
+  <li><strong>Testes Automatizados e Otimização:</strong> Implementei testes automatizados, incluindo testes unitários e de integração, e trabalhei na otimização do desempenho geral das aplicações.</li>
+  <li><strong>SEO:</strong> Implementei estratégias de SEO (Search Engine Optimization) para melhorar a visibilidade online dos projetos.</li>
+</ul>
+<p>
+  Minha carreira também inclui passagens anteriores como Desenvolvedor Backend no SENAC e na Coplan, onde adquiri experiência com sistemas legados, PHP 5.6, controle de versão Git, administração de bancos de dados MariaDB e ambientes Docker.
+</p>
+<p>
+  Minha formação inclui um diploma de Técnico em Desenvolvimento Web e Designer pela Unic, com conhecimento em PHP, HTML, Javascript, e Java, bem como cursos adicionais em Java (JPA e JSF), Flexbuilder e Genexus.
+</p>
+<p>
+  Minha trajetória profissional demonstra minha paixão por tecnologia, busca constante por excelência e comprometimento com o sucesso dos projetos.
+</p>
+<p>
   
   <a href="https://github.com/fmmh18">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=fmmh18&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
